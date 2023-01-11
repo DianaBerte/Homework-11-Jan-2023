@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(241, 254, 254);
+}
+
+.summer {
+    font-family: 'Indie Flower', cursive;
+    font-size: 100px;
+    text-align: center;
+}
+
+.deal-day{
+    
+    width: 100%;
+}
+
+.sh-img {
+    width: 100%;
+}
+
+.shanghai-card {
+    width: 100%;
+    background-color: whitesmoke;
+    color: darkblue;
+}
